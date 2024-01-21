@@ -1,4 +1,4 @@
-# This file is part of the Black Magic Debug project.
+sudo apt install -y debootstrap qemu-user-static qemu-system-arm# This file is part of the Black Magic Debug project.
 #
 # Copyright (C) 2023 1BitSquared <info@1bitsquared.com>
 # Written by Rafael Silva <perigoso@riseup.net>
